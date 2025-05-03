@@ -45,7 +45,7 @@ Command-line based management systems written in C for managing hospital patient
 
 ```bash
 # Clone the repository
-git clone [repository-url]
+git clone https://github.com/Cipherex/Management-system
 
 # Compile Hospital Management System
 gcc hospital-management.c -o hospital
